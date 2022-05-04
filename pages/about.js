@@ -31,7 +31,7 @@ export default function AboutPage({ pageProps }) {
       <Navbar signedIn={session} />
       <div className='m-4 flex items-center justify-around flex-wrap p-10 self-center gap-16 mx-auto'>
         <Image
-          src='/assets/vectors/undraw1.svg'
+          src='/assets/vectors/computer.svg'
           height={500}
           width={500}
           alt='icon1'
